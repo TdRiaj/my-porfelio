@@ -1,0 +1,129 @@
+section{
+    height: 500px;
+}
+h1{
+    font-size: 70px;
+    margin: 0;
+}
+#name-highlight{
+    color: orangered;
+    margin: 0;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 2%;
+    padding-left: 2%;
+   
+}
+
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    color: rgb(102, 91, 91);
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.half-width h2{
+    font-size: 40px;
+    color: rgb(88, 21, 245);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;;
+}
+.project{
+    background-color: whitesmoke;
+    height: 700px;
+}
+.project h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 8%;
+}
+.project-highlight{
+    color: tomato;
+}
+.leatest-project{
+    float: left;
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    height: 400px;
+    border-radius: 10px;
+    border-left: 7px solid red;
+    border-bottom: 7px solid greenyellow;
+}
+.leatest-project img{
+    width: 95%;
+}
+.leatest-project h3{
+    color: rgb(13, 202, 177);
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+.leatest-project p{
+    color: #776c6c;
+    font-size: 20px;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+.main-container{
+    background-color: rgb(248, 235, 235);
+    padding: 20px;
+    margin: 20px;
+    height: 600px;
+}
+.main-container h2{
+    color: tomato;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.main-container p{
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.container {
+  width: 100%;
+  background-color:rgb(245, 232, 232); 
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  color: rgb(17, 11, 11);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.html {
+    width: 90%;
+    background-color: #eff318;
+} 
+.css {
+    width: 80%; 
+    background-color: #f10b91;
+} 
+.js {width: 65%; 
+    background-color: #3409f7;
+} 
+.php {width: 60%;
+     background-color: #f10d0d;
+} 
+.work-chat{
+    height: 400px;
+}
